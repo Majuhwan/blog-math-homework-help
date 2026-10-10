@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://math-homework-help.howlane.com/sitemap.xml
